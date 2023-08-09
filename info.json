@@ -1,0 +1,11 @@
+{
+    "name": "Realtorio",
+    "version": "0.0.1",
+    "title": "Realtorio",
+    "author": "Lemon",
+    "factorio_version": "1.1",
+    "dependencies": [
+        "base >= 1.1"
+    ],
+    "description": "This mod adds many new recepies and intermediates to the base game of Factorio"
+}
